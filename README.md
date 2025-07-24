@@ -1,6 +1,6 @@
 # 📱 Day07: Intern01_Day07
 
-🌐 *Fetch and Display User Data from Public API*
+## 🌐 Fetch and Display User Data from Public API
 
 A beginner-friendly mini-project designed to demonstrate the use of the **Fetch API** in JavaScript. This project fetches user data from a public REST API and dynamically displays it in a responsive card layout using HTML, CSS, and JavaScript — all without any external frameworks.
 
@@ -8,13 +8,13 @@ A beginner-friendly mini-project designed to demonstrate the use of the **Fetch 
 
 ## 🚀 Features
 
-✅ Fetch API — Get real-time data from a public REST API
-📄 Dynamic Rendering — Display user name, email, and address in neat cards
-💥 Error Handling — Shows friendly message on API failure or network issues
-🔁 Reload Button — Manually refresh user data from the API
-🧱 CSS Grid — Responsive and flexible layout for all screen sizes
-🎨 Clean UI — Subtle hover effects and structured styling
-🧪 Offline Handling — Graceful fallback when internet is disconnected
+✅ **Fetch API** — Get real-time data from a public REST API
+📄 **Dynamic Rendering** — Display user name, email, and address in neat cards
+💥 **Error Handling** — Shows friendly message on API failure or network issues
+🔁 **Reload Button** — Manually refresh user data from the API
+🧱 **CSS Grid** — Responsive and flexible layout for all screen sizes
+🎨 **Clean UI** — Subtle hover effects and structured styling
+🧪 **Offline Handling** — Graceful fallback when internet is disconnected
 
 ---
 
