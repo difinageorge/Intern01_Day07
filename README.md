@@ -1,6 +1,6 @@
 # 📱 Day07: Intern01_Day07
 
-🌐 **Fetch and Display User Data from Public API**
+🌐 *Fetch and Display User Data from Public API*
 
 A beginner-friendly mini-project designed to demonstrate the use of the **Fetch API** in JavaScript. This project fetches user data from a public REST API and dynamically displays it in a responsive card layout using HTML, CSS, and JavaScript — all without any external frameworks.
 
@@ -19,7 +19,7 @@ A beginner-friendly mini-project designed to demonstrate the use of the **Fetch 
 ---
 
 ## 🛠️ Tech Stack
-
+```
 | Technology       | Description                                 |
 | ---------------- | ------------------------------------------- |
 | HTML5            | Structure for the web page                  |
@@ -28,7 +28,7 @@ A beginner-friendly mini-project designed to demonstrate the use of the **Fetch 
 | JSON             | Format for API data                         |
 | VS Code          | Code editor used during development         |
 | Chrome DevTools  | Used for debugging and testing              |
-
+```
 ---
 
 ## 📁 Project Structure
